@@ -1,0 +1,29 @@
+{
+  "name": "nodeoracle",
+  "version": "1.0.0",
+  "description": "\"nodeoracle\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"Sergio Miranda\"",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cors": "^2.8.5",
+    "@types/oracledb": "^3.1.0",
+    "angular-in-memory-web-api": "^0.5.4",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "node-env-file": "^0.1.8",
+    "oracledb": "^3.1.2"
+  }
+}
